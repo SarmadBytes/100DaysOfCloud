@@ -2,35 +2,39 @@
   <img src="banner.png">
 </p>
 
+# 100 Days of Cloud: OpenShift and AI Infrastructure
+
+## About
+
+I am a Senior OpenShift Consultant @ Dell Technologies → MENA tier-1 bank.
+
+This is my public log for the #100DaysOfCloud challenge. Each day is a real hands-on session on my own lab. I write what I built, the commands I ran, what broke, and how I fixed it.
+
+## Focus
+
+- OpenShift 4.x platform engineering and operations
+- OpenShift AI (RHOAI), KServe, vLLM, model serving
+- NVIDIA GPU Operator and GPU scheduling
+- Storage (ODF/Ceph), GitOps, security and zero-trust
+- RAG, MLflow, Kubeflow pipelines
+
+## Rules for each day
+
+1. One real task, run on a real lab.
+2. Include commands, versions, and the result.
+3. Include what failed and the fix.
+4. Use a template: [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md).
+5. Add the link to the day in the list below.
+
 ## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## Sammy Jose's Cloud Journey
+Read about the challenge at [#100DaysOfCloud.com](https://100DaysOfCloud.com). Ideas are at [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas).
 
-I'm a stay at home mom to 3 children.
-I was working part time as a school custodian.
-I was let go because of COVID.
-Now I am a ☁️ Cloud Developer Advocate for my twin brother [Andrew Brown](https://twitter.com/andrewbrown)
+## Journey
 
-I started this challenge because Andrew told me I had to lol 😂.
-I'm doing the challenge so I can show other people who are non technical how to do the challenge as well.
+### Stepping out the door
 
-I want to have a better understanding of Cloud by the end of this challenge.
-I want to earn my #100DaysOfCloud sticker for my laptop.
-Andrew won't mail me a sticker unless I do all my 100 days.
-Harsh right?
-
-- [@sammy5_j](https://twitter.com/sammy5_j)
-- [/in/sammyjose](https://www.linkedin.com/in/sammyjose)
-
-## Stepping out the door
-
-- [ ] ☁️ 1 > [My first day](Journey/001-My-first-day.md)
+- [ ] ☁️ 1 >
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
@@ -41,7 +45,7 @@ Harsh right?
 - [ ] ☁️ 9 >
 - [ ] ☁️ 10 >
 
-## Walking down the road
+### Walking down the road
 
 - [ ] ☁️ 11 >
 - [ ] ☁️ 12 >
@@ -54,7 +58,7 @@ Harsh right?
 - [ ] ☁️ 19 >
 - [ ] ☁️ 20 >
 
-## Crossing the bridge
+### Crossing the bridge
 
 - [ ] ☁️ 21 >
 - [ ] ☁️ 22 >
@@ -67,7 +71,7 @@ Harsh right?
 - [ ] ☁️ 29 >
 - [ ] ☁️ 30 >
 
-## Into the bushy, thorny forest
+### Climbing the hill
 
 - [ ] ☁️ 31 >
 - [ ] ☁️ 32 >
@@ -80,7 +84,7 @@ Harsh right?
 - [ ] ☁️ 39 >
 - [ ] ☁️ 40 >
 
-## Trekking the dunes
+### Over the mountain
 
 - [ ] ☁️ 41 >
 - [ ] ☁️ 42 >
@@ -93,7 +97,7 @@ Harsh right?
 - [ ] ☁️ 49 >
 - [ ] ☁️ 50 >
 
-## Winding through the canyons
+### Through the clouds
 
 - [ ] ☁️ 51 >
 - [ ] ☁️ 52 >
@@ -106,7 +110,7 @@ Harsh right?
 - [ ] ☁️ 59 >
 - [ ] ☁️ 60 >
 
-## Stumbling through the caves
+### Above the storm
 
 - [ ] ☁️ 61 >
 - [ ] ☁️ 62 >
@@ -119,7 +123,7 @@ Harsh right?
 - [ ] ☁️ 69 >
 - [ ] ☁️ 70 >
 
-## Resting at the Lagoon
+### Toward the horizon
 
 - [ ] ☁️ 71 >
 - [ ] ☁️ 72 >
@@ -132,7 +136,7 @@ Harsh right?
 - [ ] ☁️ 79 >
 - [ ] ☁️ 80 >
 
-## Up into the mountains
+### Almost there
 
 - [ ] ☁️ 81 >
 - [ ] ☁️ 82 >
@@ -145,7 +149,7 @@ Harsh right?
 - [ ] ☁️ 89 >
 - [ ] ☁️ 90 >
 
-## Into the sky to touch the cloud!
+### Into the sky to touch the cloud!
 
 - [ ] ☁️ 91 >
 - [ ] ☁️ 92 >
